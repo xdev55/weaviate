@@ -1,0 +1,4 @@
+env
+azure-pipelines.yml
+.env*
+venv
